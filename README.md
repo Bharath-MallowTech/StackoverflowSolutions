@@ -11,3 +11,8 @@ Collection of reference codes or projects for the problems asked & solved in sta
 ## AudioVideo issues
 
 [Can't play mp3 file over HTTP via AVPlayer](https://stackoverflow.com/questions/46434004/cant-play-mp3-file-over-http-via-avplayer).
+
+
+## ViewControler presenting & pushing issues
+
+[Crash on Swift | Dismiss ViewController and Push other ViewController](https://stackoverflow.com/questions/46490739/swift-dismiss-viewcontroller-and-push-other-viewcontroller).
