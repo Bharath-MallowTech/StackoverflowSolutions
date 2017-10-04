@@ -16,3 +16,8 @@ Collection of reference codes or projects for the problems asked & solved in sta
 ## ViewControler presenting & pushing issues
 
 [Crash on Swift | Dismiss ViewController and Push other ViewController](https://stackoverflow.com/questions/46490739/swift-dismiss-viewcontroller-and-push-other-viewcontroller).
+
+
+## Alert issues
+
+[Set parts of text to different alpha values](https://stackoverflow.com/questions/46549380/set-parts-of-text-to-different-alpha-values).
